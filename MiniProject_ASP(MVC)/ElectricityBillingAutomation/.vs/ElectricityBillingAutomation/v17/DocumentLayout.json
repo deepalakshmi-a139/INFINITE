@@ -1,0 +1,305 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB243851-9D64-41FB-A834-37D08C7788FD}|ElectricityBillingAutomation.csproj|C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CB243851-9D64-41FB-A834-37D08C7788FD}|ElectricityBillingAutomation.csproj|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB243851-9D64-41FB-A834-37D08C7788FD}|ElectricityBillingAutomation.csproj|C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\viewbills.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB243851-9D64-41FB-A834-37D08C7788FD}|ElectricityBillingAutomation.csproj|solutionrelative:viewbills.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB243851-9D64-41FB-A834-37D08C7788FD}|ElectricityBillingAutomation.csproj|C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\models\\electricityboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB243851-9D64-41FB-A834-37D08C7788FD}|ElectricityBillingAutomation.csproj|solutionrelative:models\\electricityboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB243851-9D64-41FB-A834-37D08C7788FD}|ElectricityBillingAutomation.csproj|C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\models\\dbhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB243851-9D64-41FB-A834-37D08C7788FD}|ElectricityBillingAutomation.csproj|solutionrelative:models\\dbhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB243851-9D64-41FB-A834-37D08C7788FD}|ElectricityBillingAutomation.csproj|C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CB243851-9D64-41FB-A834-37D08C7788FD}|ElectricityBillingAutomation.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB243851-9D64-41FB-A834-37D08C7788FD}|ElectricityBillingAutomation.csproj|C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\models\\billvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB243851-9D64-41FB-A834-37D08C7788FD}|ElectricityBillingAutomation.csproj|solutionrelative:models\\billvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB243851-9D64-41FB-A834-37D08C7788FD}|ElectricityBillingAutomation.csproj|C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB243851-9D64-41FB-A834-37D08C7788FD}|ElectricityBillingAutomation.csproj|solutionrelative:dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB243851-9D64-41FB-A834-37D08C7788FD}|ElectricityBillingAutomation.csproj|C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB243851-9D64-41FB-A834-37D08C7788FD}|ElectricityBillingAutomation.csproj|solutionrelative:login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB243851-9D64-41FB-A834-37D08C7788FD}|ElectricityBillingAutomation.csproj|C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\addbill.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB243851-9D64-41FB-A834-37D08C7788FD}|ElectricityBillingAutomation.csproj|solutionrelative:addbill.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB243851-9D64-41FB-A834-37D08C7788FD}|ElectricityBillingAutomation.csproj|C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\addbill.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CB243851-9D64-41FB-A834-37D08C7788FD}|ElectricityBillingAutomation.csproj|solutionrelative:addbill.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB243851-9D64-41FB-A834-37D08C7788FD}|ElectricityBillingAutomation.csproj|C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\viewbills.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CB243851-9D64-41FB-A834-37D08C7788FD}|ElectricityBillingAutomation.csproj|solutionrelative:viewbills.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB243851-9D64-41FB-A834-37D08C7788FD}|ElectricityBillingAutomation.csproj|c:\\users\\deepalakshmia\\desktop\\miniproject_asp(mvc)\\electricitybillingautomation\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CB243851-9D64-41FB-A834-37D08C7788FD}|ElectricityBillingAutomation.csproj|solutionrelative:dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB243851-9D64-41FB-A834-37D08C7788FD}|ElectricityBillingAutomation.csproj|C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{CB243851-9D64-41FB-A834-37D08C7788FD}|ElectricityBillingAutomation.csproj|solutionrelative:site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB243851-9D64-41FB-A834-37D08C7788FD}|ElectricityBillingAutomation.csproj|C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\models\\electricitybill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB243851-9D64-41FB-A834-37D08C7788FD}|ElectricityBillingAutomation.csproj|solutionrelative:models\\electricitybill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB243851-9D64-41FB-A834-37D08C7788FD}|ElectricityBillingAutomation.csproj|C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB243851-9D64-41FB-A834-37D08C7788FD}|ElectricityBillingAutomation.csproj|solutionrelative:global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB243851-9D64-41FB-A834-37D08C7788FD}|ElectricityBillingAutomation.csproj|C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\viewswitcher.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB243851-9D64-41FB-A834-37D08C7788FD}|ElectricityBillingAutomation.csproj|solutionrelative:viewswitcher.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB243851-9D64-41FB-A834-37D08C7788FD}|ElectricityBillingAutomation.csproj|C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\viewswitcher.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{CB243851-9D64-41FB-A834-37D08C7788FD}|ElectricityBillingAutomation.csproj|solutionrelative:viewswitcher.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ElectricityBoard.cs",
+              "DocumentMoniker": "C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\Models\\ElectricityBoard.cs",
+              "RelativeDocumentMoniker": "Models\\ElectricityBoard.cs",
+              "ToolTip": "C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\Models\\ElectricityBoard.cs",
+              "RelativeToolTip": "Models\\ElectricityBoard.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T16:46:17.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Login.aspx.cs",
+              "ToolTip": "C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\Login.aspx.cs",
+              "RelativeToolTip": "Login.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T16:36:45.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DBHandler.cs",
+              "DocumentMoniker": "C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\Models\\DBHandler.cs",
+              "RelativeDocumentMoniker": "Models\\DBHandler.cs",
+              "ToolTip": "C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\Models\\DBHandler.cs",
+              "RelativeToolTip": "Models\\DBHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T16:44:51.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewBills.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\ViewBills.aspx.cs",
+              "RelativeDocumentMoniker": "ViewBills.aspx.cs",
+              "ToolTip": "C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\ViewBills.aspx.cs",
+              "RelativeToolTip": "ViewBills.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T16:39:16.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BillValidator.cs",
+              "DocumentMoniker": "C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\Models\\BillValidator.cs",
+              "RelativeDocumentMoniker": "Models\\BillValidator.cs",
+              "ToolTip": "C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\Models\\BillValidator.cs",
+              "RelativeToolTip": "Models\\BillValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAADPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T16:43:13.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-06T17:05:57.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\Login.aspx",
+              "RelativeDocumentMoniker": "Login.aspx",
+              "ToolTip": "C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\Login.aspx",
+              "RelativeToolTip": "Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-06T16:36:08.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DashBoard.aspx",
+              "DocumentMoniker": "C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\DashBoard.aspx",
+              "RelativeDocumentMoniker": "DashBoard.aspx",
+              "ToolTip": "C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\DashBoard.aspx",
+              "RelativeToolTip": "DashBoard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-07T08:52:10.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DashBoard.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\DashBoard.aspx.cs",
+              "RelativeDocumentMoniker": "DashBoard.aspx.cs",
+              "ToolTip": "C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\DashBoard.aspx.cs",
+              "RelativeToolTip": "DashBoard.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T08:55:27.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddBill.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\AddBill.aspx.cs",
+              "RelativeDocumentMoniker": "AddBill.aspx.cs",
+              "ToolTip": "C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\AddBill.aspx.cs",
+              "RelativeToolTip": "AddBill.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T16:38:04.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddBill.aspx",
+              "DocumentMoniker": "C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\AddBill.aspx",
+              "RelativeDocumentMoniker": "AddBill.aspx",
+              "ToolTip": "C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\AddBill.aspx",
+              "RelativeToolTip": "AddBill.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-06T16:37:38.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ViewBills.aspx",
+              "DocumentMoniker": "C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\ViewBills.aspx",
+              "RelativeDocumentMoniker": "ViewBills.aspx",
+              "ToolTip": "C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\ViewBills.aspx",
+              "RelativeToolTip": "ViewBills.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-06T16:38:50.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\Site.Master",
+              "RelativeDocumentMoniker": "Site.Master",
+              "ToolTip": "C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\Site.Master",
+              "RelativeToolTip": "Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-06T16:57:54.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ElectricityBill.cs",
+              "DocumentMoniker": "C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\Models\\ElectricityBill.cs",
+              "RelativeDocumentMoniker": "Models\\ElectricityBill.cs",
+              "ToolTip": "C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\Models\\ElectricityBill.cs",
+              "RelativeToolTip": "Models\\ElectricityBill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T16:42:38.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Global.asax.cs",
+              "ToolTip": "C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\Global.asax.cs",
+              "RelativeToolTip": "Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T17:13:19.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ViewSwitcher.ascx.cs",
+              "DocumentMoniker": "C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\ViewSwitcher.ascx.cs",
+              "RelativeDocumentMoniker": "ViewSwitcher.ascx.cs",
+              "ToolTip": "C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\ViewSwitcher.ascx.cs",
+              "RelativeToolTip": "ViewSwitcher.ascx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T17:42:38.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ViewSwitcher.ascx",
+              "DocumentMoniker": "C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\ViewSwitcher.ascx",
+              "RelativeDocumentMoniker": "ViewSwitcher.ascx",
+              "ToolTip": "C:\\Users\\deepalakshmia\\Desktop\\MiniProject_ASP(MVC)\\ElectricityBillingAutomation\\ViewSwitcher.ascx",
+              "RelativeToolTip": "ViewSwitcher.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2026-01-06T17:40:26.192Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Button Click Logger</title>
+</head>
+<body>
+  <h2>Click Event Example</h2>
+  <button id="logButton">Click Me</button>
+
+  <script>
+    const button = document.getElementById('logButton');
+    button.addEventListener('click', function() {
+  document.body.insertAdjacentHTML('beforeend', '<p>Button was clicked!</p>');
+});
+
+  </script>
+</body>
+</html>

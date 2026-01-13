@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deepalakshmia\\Desktop\\Infinite_Training_DotNet\\Assessments\\MVC_Assessment_8\\Assessment_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8815B669-6840-4CEE-8307-648617B3C133}|Assessment_MVC.csproj|c:\\users\\deepalakshmia\\desktop\\infinite_training_dotnet\\assessments\\mvc_assessment_8\\assessment_mvc\\views\\code\\customersingermany.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8815B669-6840-4CEE-8307-648617B3C133}|Assessment_MVC.csproj|solutionrelative:views\\code\\customersingermany.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8815B669-6840-4CEE-8307-648617B3C133}|Assessment_MVC.csproj|c:\\users\\deepalakshmia\\desktop\\infinite_training_dotnet\\assessments\\mvc_assessment_8\\assessment_mvc\\models\\northwindmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{8815B669-6840-4CEE-8307-648617B3C133}|Assessment_MVC.csproj|solutionrelative:models\\northwindmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8815B669-6840-4CEE-8307-648617B3C133}|Assessment_MVC.csproj|c:\\users\\deepalakshmia\\desktop\\infinite_training_dotnet\\assessments\\mvc_assessment_8\\assessment_mvc\\controllers\\codecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8815B669-6840-4CEE-8307-648617B3C133}|Assessment_MVC.csproj|solutionrelative:controllers\\codecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8815B669-6840-4CEE-8307-648617B3C133}|Assessment_MVC.csproj|c:\\users\\deepalakshmia\\desktop\\infinite_training_dotnet\\assessments\\mvc_assessment_8\\assessment_mvc\\views\\code\\customerbyorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8815B669-6840-4CEE-8307-648617B3C133}|Assessment_MVC.csproj|solutionrelative:views\\code\\customerbyorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerByOrder.cshtml",
+              "DocumentMoniker": "C:\\Users\\deepalakshmia\\Desktop\\Infinite_Training_DotNet\\Assessments\\MVC_Assessment_8\\Assessment_MVC\\Views\\Code\\CustomerByOrder.cshtml",
+              "RelativeDocumentMoniker": "Views\\Code\\CustomerByOrder.cshtml",
+              "ToolTip": "C:\\Users\\deepalakshmia\\Desktop\\Infinite_Training_DotNet\\Assessments\\MVC_Assessment_8\\Assessment_MVC\\Views\\Code\\CustomerByOrder.cshtml",
+              "RelativeToolTip": "Views\\Code\\CustomerByOrder.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T04:57:05.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomersInGermany.cshtml",
+              "DocumentMoniker": "C:\\Users\\deepalakshmia\\Desktop\\Infinite_Training_DotNet\\Assessments\\MVC_Assessment_8\\Assessment_MVC\\Views\\Code\\CustomersInGermany.cshtml",
+              "RelativeDocumentMoniker": "Views\\Code\\CustomersInGermany.cshtml",
+              "ToolTip": "C:\\Users\\deepalakshmia\\Desktop\\Infinite_Training_DotNet\\Assessments\\MVC_Assessment_8\\Assessment_MVC\\Views\\Code\\CustomersInGermany.cshtml",
+              "RelativeToolTip": "Views\\Code\\CustomersInGermany.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T04:56:34.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CodeController.cs",
+              "DocumentMoniker": "C:\\Users\\deepalakshmia\\Desktop\\Infinite_Training_DotNet\\Assessments\\MVC_Assessment_8\\Assessment_MVC\\Controllers\\CodeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CodeController.cs",
+              "ToolTip": "C:\\Users\\deepalakshmia\\Desktop\\Infinite_Training_DotNet\\Assessments\\MVC_Assessment_8\\Assessment_MVC\\Controllers\\CodeController.cs",
+              "RelativeToolTip": "Controllers\\CodeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:41:59.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NorthWindModel.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\deepalakshmia\\Desktop\\Infinite_Training_DotNet\\Assessments\\MVC_Assessment_8\\Assessment_MVC\\Models\\NorthWindModel.edmx",
+              "RelativeDocumentMoniker": "Models\\NorthWindModel.edmx",
+              "ToolTip": "C:\\Users\\deepalakshmia\\Desktop\\Infinite_Training_DotNet\\Assessments\\MVC_Assessment_8\\Assessment_MVC\\Models\\NorthWindModel.edmx [Diagram1]",
+              "RelativeToolTip": "Models\\NorthWindModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-01-13T04:37:54.387Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Input Change Event</title>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+  <h2>Type something below</h2>
+  <input type="text" id="myInput" placeholder="Type here...">
+
+  <script>
+    $(document).ready(function() {
+      $('#myInput').on('change', function() {
+        $('body').append('<p>Input field is Changed!</p>');
+      });
+    });
+  </script>
+</body>
+</html>
