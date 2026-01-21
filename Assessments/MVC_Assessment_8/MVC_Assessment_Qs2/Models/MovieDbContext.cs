@@ -13,3 +13,4 @@ namespace MVC_Assessment_Qs2.Models
         public DbSet<Movie> Movies { get; set; }
     }
 }
+

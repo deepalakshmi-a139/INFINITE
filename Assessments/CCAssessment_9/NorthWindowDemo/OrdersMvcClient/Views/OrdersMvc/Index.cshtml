@@ -1,0 +1,18 @@
+﻿@model IEnumerable<OrdersMvcClient.Models.OrderViewModel>
+
+<h2>Orders of Buchanan Steven</h2>
+<table class="table">
+    <tr>
+        <th>OrderID</th>
+        <th>CustomerID</th>
+        <th>OrderDate</th>
+    </tr>
+    @foreach (var order in Model)
+    {
+        <tr>
+            <td>@order.OrderID</td>
+            <td>@order.CustomerID</td>
+            <td>@order.OrderDate</td>
+        </tr>
+    }
+</table>
